@@ -1,4 +1,5 @@
 # Employee-Management-System-
+Mini project during my Internship in Fuzetek!
 1.1 Purpose
 The Employee Management System is designed to help organizations manage
 employees, departments, and projects efficiently. It provides a structured
